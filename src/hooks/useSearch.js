@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { REACT_APP_SEARCH_KEY, REACT_APP_SEARCH_ENGINE_KEY } from "./ApiKey";
+import { REACT_APP_SEARCH_KEY, REACT_APP_SEARCH_ENGINE_KEY } from "../ApiKey";
 import axios from "axios";
 
 const BASE_URL = "https://customsearch.googleapis.com/customsearch/v1";
