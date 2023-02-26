@@ -4,6 +4,17 @@
 
 
 
+https://user-images.githubusercontent.com/82487339/221436655-3f10bb8a-367b-4ce6-b1f5-c2457403e74b.mp4
+
+
+## Setup
+
+```
+npm i && start
+```
+
+
+
 
 **Some UseFul Link**
 
