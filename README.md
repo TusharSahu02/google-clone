@@ -1,5 +1,7 @@
 # google-clone
 
+This API gives the 10 results only on per search
+
 ## Video
 
 
